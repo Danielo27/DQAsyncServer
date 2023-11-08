@@ -4,7 +4,7 @@
     "description": "la biblioteca DQAsyncServer permite realizar actualizaciones OTA para dispositivos ESP8266.",
     "repository": {
         "type": "git",
-        "url": "http://github.com"
+        "url": "https://github.com/Danielo27/DQAsyncServer"
     },
     "authors": [{
         "name": "Daniel Quintero",
